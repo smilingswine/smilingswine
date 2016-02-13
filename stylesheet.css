@@ -18,6 +18,8 @@
 	border-color: #0181c8;
 	padding-left: 2.5cm;
 	max-width:25cm;
+	margin-right: auto;
+	margin-left: 4cm;
 }
 
 ol.school-list
@@ -34,6 +36,8 @@ ol.school-list
 	border-color: #0181c8;
 	padding-left: 2.5cm;
 	max-width:25cm;
+	margin-right:auto;
+	margin-left: 4cm;
 }
 
 ol.mcnair-list
@@ -62,6 +66,8 @@ ol.awards-list
 	border-color: #0181c8;
 	padding-left: 2.5cm;
 	max-width: 25cm;
+	margin-right: auto;
+	margin-left: 4cm;
 }
 
 ol.music-librarian-list
