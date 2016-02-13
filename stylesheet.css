@@ -16,6 +16,11 @@
 	padding-left: 2.5cm;
 }
 
+ol.school-list
+{
+	list-style-type: square;
+}
+
 .awards-etc
 {
 	background-color: #a2c9e4;
@@ -30,6 +35,16 @@ ol.mcnair-list
 	list-style-type: square;
 }
 
+ol.deans-list-list
+{
+	list-style-type: square;
+}
+
+ol.awards-list
+{
+	list-style-type: square;
+}
+
 .work-experience
 {
 	background-color: #a2c9e4;
@@ -37,6 +52,21 @@ ol.mcnair-list
 	border-width: 10px;
 	border-color: #0181c8;
 	padding-left: 2.5cm;
+}
+
+ol.music-librarian-list
+{
+	list-style-type: square;
+}
+
+ol.server-list
+{
+	list-style-type: square;
+}
+
+ol.summer-list
+{
+	list-style-type: square;
 }
 
 h1
