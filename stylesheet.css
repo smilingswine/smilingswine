@@ -6,6 +6,7 @@
 	border-color: #0181c8;
 	padding-left: 2.5cm;
 }
+
 .school
 {
 	background-color: #a2c9e4;
@@ -13,6 +14,11 @@
 	border-width: 10px;
 	border-color: #0181c8;
 	padding-left: 2.5cm;
+}
+
+.school p
+{
+	list-style-type: square;
 }
 
 .awards-etc
@@ -24,6 +30,11 @@
 	padding-left: 2.5cm;
 }
 
+.awards-etc p
+{
+	list-style-type: square;
+}
+
 .work-experience
 {
 	background-color: #a2c9e4;
@@ -32,6 +43,12 @@
 	border-color: #0181c8;
 	padding-left: 2.5cm;
 }
+
+.work-experience p
+{
+	list-style-type: square;
+}
+
 h1
 {
 	color: #064055;
