@@ -1,8 +1,32 @@
 .info
 {
-	background-color:#aaa9cb;
+	background-color: #aaa9cb;
 	border: solid;
-	border-width:10px;
-	border-color:#1d103e;
+	border-width: 10px;
+	border-color: #1d103e;
+	padding-left: 2.5cm;
+}
+.school
+{
+	background-color: #aaa9cb;
+	border: solid;
+	border-width: 10px;
+	border-color: #1d103e;
+	padding-left: 2.5cm;
+}
+.awards-etc
+{
+	background-color: #aaa9cb;
+	border: solid;
+	border-width: 10px;
+	border-color: #1d103e;
+	padding-left: 2.5cm;
+}
+.work-experience
+{
+	background-color: #aaa9cb;
+	border: solid;
+	border-width: 10px;
+	border-color: #1d103e;
 	padding-left: 2.5cm;
 }
