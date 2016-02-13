@@ -19,6 +19,7 @@
 ol.school-list
 {
 	list-style-type: square;
+	max-width: 16cm;
 }
 
 .awards-etc
@@ -33,16 +34,19 @@ ol.school-list
 ol.mcnair-list
 {
 	list-style-type: square;
+	max-width: 16cm;
 }
 
 ol.deans-list-list
 {
 	list-style-type: square;
+	max-width: 16cm;
 }
 
 ol.awards-list
 {
 	list-style-type: square;
+	max-width: 16cm;
 }
 
 .work-experience
@@ -57,16 +61,19 @@ ol.awards-list
 ol.music-librarian-list
 {
 	list-style-type: square;
+	max-width: 16cm;
 }
 
 ol.server-list
 {
 	list-style-type: square;
+	max-width: 16cm;
 }
 
 ol.summer-list
 {
 	list-style-type: square;
+	max-width: 16cm;
 }
 
 h1
