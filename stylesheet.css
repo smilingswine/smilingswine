@@ -14,10 +14,7 @@
 	border-color: #0181c8;
 	padding-left: 2.5cm;
 }
-.school h3
-{
-	background-color: #f7e7c6;
-}
+
 .awards-etc
 {
 	background-color: #a2c9e4;
@@ -26,10 +23,7 @@
 	border-color: #0181c8;
 	padding-left: 2.5cm;
 }
-.awards-etc h3
-{
-	background-color: #f7e7c6;
-}
+
 .work-experience
 {
 	background-color: #a2c9e4;
@@ -37,8 +31,4 @@
 	border-width: 10px;
 	border-color: #0181c8;
 	padding-left: 2.5cm;
-}
-.work-experience h3
-{
-	background-color: #f7e7c6;
 }
