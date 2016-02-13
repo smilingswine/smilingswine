@@ -5,10 +5,10 @@ body
 
 .info
 {
-	background-color: #a2c9e4;
+	background-color: #9daaa7;
 	border: solid;
 	border-width: 10px;
-	border-color: #0181c8;
+	border-color: #001836;
 	padding-left: 2.5cm;
 	max-width: 25cm;
 	margin-right: auto;
@@ -17,10 +17,10 @@ body
 
 .school
 {
-	background-color: #a2c9e4;
+	background-color: #9daaa7;
 	border: solid;
 	border-width: 10px;
-	border-color: #0181c8;
+	border-color: #001836;
 	padding-left: 2.5cm;
 	max-width:25cm;
 	margin-right: auto;
@@ -35,10 +35,10 @@ ol.school-list
 
 .awards-etc
 {
-	background-color: #a2c9e4;
+	background-color: #9daaa7;
 	border: solid;
 	border-width: 10px;
-	border-color: #0181c8;
+	border-color: #001836;
 	padding-left: 2.5cm;
 	max-width:25cm;
 	margin-right:auto;
@@ -65,10 +65,10 @@ ol.awards-list
 
 .work-experience
 {
-	background-color: #a2c9e4;
+	background-color: #9daaa7;
 	border: solid;
 	border-width: 10px;
-	border-color: #0181c8;
+	border-color: #001836;
 	padding-left: 2.5cm;
 	max-width: 25cm;
 	margin-right: auto;
@@ -95,13 +95,13 @@ ol.summer-list
 
 h1
 {
-	color: #064055;
+	color: #c47e1e;
 	font-weight: bolder;
 	text-decoration: underline;
 }
 h2
 {
-	color: #064055;
+	color: #c47e1e;
 	font-weight: bolder;
 	text-decoration: underline;
 }
