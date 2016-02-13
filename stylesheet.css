@@ -1,5 +1,7 @@
 .info
 {
 	background-color:#e5b5e4;
-	position: relative;
+	border: solid;
+	border-width:10px;
+	border-color:#1d103e;
 }
