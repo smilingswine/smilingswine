@@ -1,9 +1,19 @@
+h1, h2, h3, h4, p , li
+{
+	padding: 0;
+	border: 0;
+	margin: 0;
+	font-size: 100%;
+	font: inherit;
+}
+
 body
 {
 	background-image: url("http://coolblackppt.com/wp-content/uploads/2013/08/Yellow-parchment-paper-texture-picture-free-photograph-photos.jpg");
+	font-family: "Times New Roman", serif;
 }
 
-h1, h2, h3, h4, li, p
+section, article
 {
 	margin: 15px auto 15px auto;
 }
