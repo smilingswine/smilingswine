@@ -18,22 +18,6 @@ header
 	max-width: 25cm;
 }
 
-.school
-{
-	background-color: #a2c9e4;
-	border: solid;
-	border-width: 10px;
-	border-color: #0181c8;
-	padding-left: 2.5cm;
-	max-width:25cm;
-}
-
-ol.school-list
-{
-	list-style-type: square;
-	max-width: 16cm;
-}
-
 section
 {
 	background-color: #a2c9e4;
@@ -44,37 +28,7 @@ section
 	max-width:25cm;
 }
 
-ol.mcnair-list
-{
-	list-style-type: square;
-	max-width: 16cm;
-}
-
-ol.deans-list-list
-{
-	list-style-type: square;
-	max-width: 16cm;
-}
-
-ol.awards-list
-{
-	list-style-type: square;
-	max-width: 16cm;
-}
-
-ol.music-librarian-list
-{
-	list-style-type: square;
-	max-width: 16cm;
-}
-
-ol.server-list
-{
-	list-style-type: square;
-	max-width: 16cm;
-}
-
-ol.summer-list
+article
 {
 	list-style-type: square;
 	max-width: 16cm;
