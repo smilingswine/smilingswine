@@ -62,16 +62,6 @@ ol.awards-list
 	max-width: 16cm;
 }
 
-.work-experience
-{
-	background-color: #a2c9e4;
-	border: solid;
-	border-width: 10px;
-	border-color: #0181c8;
-	padding-left: 2.5cm;
-	max-width: 25cm;
-}
-
 ol.music-librarian-list
 {
 	list-style-type: square;
