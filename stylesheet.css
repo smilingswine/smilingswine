@@ -3,7 +3,7 @@ body
 	background-image: url("http://coolblackppt.com/wp-content/uploads/2013/08/Yellow-parchment-paper-texture-picture-free-photograph-photos.jpg");
 }
 
-.info
+header
 {
 	background-color: #a2c9e4;
 	border: solid;
@@ -15,6 +15,12 @@ body
 	margin-left: 4cm;
 }
 
+figure
+{
+	background: url("http://imgfave-chat-herokuapp-com.global.ssl.fastly.net/image_cache/1307217989769774.jpg") top center no-repeat;
+	float: right;
+	background-size: 75%;
+}
 .school
 {
 	background-color: #a2c9e4;
