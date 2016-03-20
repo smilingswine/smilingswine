@@ -39,13 +39,13 @@ section
 	max-width:25cm;
 }
 
-article li
+article ol
 {
 	list-style-type: square;
 	max-width: 16cm;
 }
 
-section li{
+section ol{
 	list-style-type: square;
 	max-width: 16cm;
 }
