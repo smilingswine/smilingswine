@@ -18,6 +18,11 @@ section, article
 	margin: 15px auto 15px auto;
 }
 
+figure {
+	background: #000 url(http://imgfave-chat-herokuapp-com.global.ssl.fastly.net/image_cache/1307217989769774.jpg) center center no-repeat;
+	float: left;
+}
+
 header
 {
 	background-color: #a2c9e4;
