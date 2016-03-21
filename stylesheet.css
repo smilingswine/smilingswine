@@ -19,7 +19,7 @@ section, article
 }
 
 figure {
-	background: #000 url(http://imgfave-chat-herokuapp-com.global.ssl.fastly.net/image_cache/1307217989769774.jpg) center center no-repeat;
+	background: url(http://imgfave-chat-herokuapp-com.global.ssl.fastly.net/image_cache/1307217989769774.jpg) center center no-repeat;
 	background-size: 75%;
 	color: #fff;
 }
