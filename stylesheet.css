@@ -55,11 +55,11 @@ h1, h2
 	color: #064055;
 	font-weight: bolder;
 	text-decoration: underline;
-	font-size: 32px;
+	font-size: 28px;
 }
 
-h2 {
-	font-size: 24px;
+h1 {
+	font-size: 36px;
 }
 
 h3{
@@ -67,5 +67,9 @@ h3{
 }
 
 h4 {
-	font-size: 18px;
+	font-size: 20px;
+}
+
+header p {
+	font-size: 20px;
 }
