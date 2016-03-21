@@ -64,10 +64,12 @@ h1 {
 
 h3{
 	font-size: 24px;
+	font-weight: bold;
 }
 
 h4 {
 	font-size: 20px;
+	font-weight: bold;
 }
 
 header p {
